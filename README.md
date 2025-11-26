@@ -74,9 +74,9 @@ Tracking daily progress in Web Dev, Data, and ML.
 ---
 
 ## 📫 Contact Me
-- 📧 Email: **youremail@example.com**  
-- 🧳 LinkedIn: *(add your link here)*  
-- 🌐 Portfolio: *(optional)*
+- 📧 Email: **atuldharnia770@gmail.com**  
+- 🧳 LinkedIn: *https://www.linkedin.com/in/atul-dharnia-b2b210222/*  
+- 🌐 Portfolio: *Don't have One, But will make one Soon*
 
 ---
 
