@@ -3,8 +3,8 @@
 <h3 align="center">Web Developer • Data Analyst • Machine Learning Explorer</h3>
 
 <p align="center">
-  🚀 Currently building my skills through real projects, 30-day challenges,  
-  and a complete “My Redemption Arc” journey to become a full-stack + data engineer.
+  🚀 Growing daily through real projects, data analysis, web development,  
+  and a complete “My Redemption Arc” 30-day coding journey.
 </p>
 
 ---
@@ -12,15 +12,15 @@
 ## 🧩 About Me  
 - 🎓 Final-year CSE + MSc Data Science (UK)  
 - 💻 MERN Developer & Data Analyst  
-- 📊 Experience with Python, SQL, Power BI, and ML projects  
+- 📊 Skilled in Python, SQL, ML, and building interactive dashboards  
 - 🔥 Currently working on: **My Dev Journey – 30 Days Challenge**  
-- 🧠 Learning: Advanced HTML/CSS, JavaScript, MongoDB, ML pipelines  
+- 🧠 Exploring: JavaScript deep concepts, MongoDB, ML pipelines, ETL  
 
 ---
 
 ## ⚙️ Tech Stack  
 
-### **🌐 Web Development**
+### 🌐 **Web Development**
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -31,7 +31,7 @@
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
-### **📊 Data & Machine Learning**
+### 📊 **Data & Machine Learning**
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
@@ -45,39 +45,81 @@
 
 ## 📌 Featured Projects  
 - 🔷 **HR Attrition Dashboard** – Power BI analytics  
-- 🔷 **Heart Disease ML Model** – 90% accuracy using RandomForest  
+- 🔷 **Heart Disease ML Model** – RandomForest (90% accuracy)  
 - 🔷 **Spam Mail Detection** – TF-IDF + Logistic Regression  
-- 🔷 **Sentiment Analysis on YouTube Comments**  
-- 🔷 **Dice Game / Drum Kit** (JavaScript projects)
+- 🔷 **YouTube Comment Sentiment Analysis**  
+- 🔷 **Dice Game & Drum Kit** (JavaScript mini projects)
+
+---
+
+## 🧠 Coding Profiles & CP Stats
+
+<p align="left">
+
+  <!-- HackerRank -->
+  <a href="https://www.hackerrank.com/profile/atuldharnia770" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-Profile-brightgreen?style=for-the-badge&logo=hackerrank" />
+  </a>
+
+  <!-- LeetCode -->
+  <a href="https://leetcode.com/u/atuldharnia770/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-yellow?style=for-the-badge&logo=leetcode" />
+  </a>
+
+  <!-- GFG -->
+  <a href="https://auth.geeksforgeeks.org/user/atuldharnia770/practice/" target="_blank">
+    <img src="https://img.shields.io/badge/GFG-Profile-brightgreen?style=for-the-badge&logo=geeksforgeeks" />
+  </a>
+
+</p>
+
+### 🟧 LeetCode Stats
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/atuldharnia770?theme=dark&font=Baloo%202&ext=contest" />
+</p>
+
+### 🟩 HackerRank Badges
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-5%20Stars-yellow?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/C++-3%20Stars-blue?style=for-the-badge&logo=c%2B%2B" />
+  <img src="https://img.shields.io/badge/Problem%20Solving-Basic%20Certified-brightgreen?style=for-the-badge&logo=hackerrank" />
+</p>
+
+### 🟦 GeeksForGeeks Badge
+<p align="center">
+  <img src="https://img.shields.io/badge/GFG%20Problems%20Solved-78-brightgreen?style=for-the-badge&logo=geeksforgeeks" />
+</p>
 
 ---
 
 ## 🔥 My Dev Journey — 30 Days (My Redemption Arc)
-Tracking daily progress in Web Dev, Data, and ML.
+
+Tracking daily progress in Web Dev, Data, ML & problem-solving.
 
 📅 **Status:** Day 2/30  
-📁 Repo: [`my-dev-journey-30-days`](#)
+📁 Repo: *(coming soon)*  
+✨ Consistency > Motivation
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats (Auto-Updating)
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Atul-770&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Atul-770&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Atul-770&show_icons=true&theme=tokyonight&v=1" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Atul-770&theme=tokyonight&v=1" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atul-770&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atul-770&layout=compact&theme=tokyonight&v=1" />
 </p>
 
 ---
 
 ## 📫 Contact Me
 - 📧 Email: **atuldharnia770@gmail.com**  
-- 🧳 LinkedIn: *https://www.linkedin.com/in/atul-dharnia-b2b210222/*  
-- 🌐 Portfolio: *Don't have One, But will make one Soon*
+- 🧳 LinkedIn: *[(add your LinkedIn profile](https://www.linkedin.com/in/atul-dharnia-b2b210222/)*  
+- 🌐 Portfolio (coming soon)
 
 ---
 
-⭐ *“Every day you train, you’re rewriting your own story.”*
+⭐ *"Every day you train, you rewrite your story — this is my redemption arc."*
