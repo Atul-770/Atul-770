@@ -97,7 +97,7 @@
 Tracking daily progress in Web Dev, Data, ML & problem-solving.
 
 📅 **Status:** Day 2/30  
-📁 Repo: *(coming soon)*  
+📁 Repo: *[(Journey)](https://github.com/Atul-770/my-dev-journey-30-days)*  
 ✨ Consistency > Motivation
 
 ---
@@ -117,7 +117,7 @@ Tracking daily progress in Web Dev, Data, ML & problem-solving.
 
 ## 📫 Contact Me
 - 📧 Email: **atuldharnia770@gmail.com**  
-- 🧳 LinkedIn: *[(add your LinkedIn profile](https://www.linkedin.com/in/atul-dharnia-b2b210222/)*  
+- 🧳 LinkedIn: *[Atul Dharnia](https://www.linkedin.com/in/atul-dharnia-b2b210222/)*  
 - 🌐 Portfolio (coming soon)
 
 ---
