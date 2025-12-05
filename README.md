@@ -10,7 +10,7 @@
 ---
 
 ## 🧩 About Me  
-- 🎓 Final-year CSE + MSc Data Science (UK)  
+- 🎓 B.Tech. CSE (India) + MSc Data Science (UK)  
 - 💻 MERN Developer & Data Analyst  
 - 📊 Skilled in Python, SQL, ML, and building interactive dashboards  
 - 🔥 Currently working on: **My Dev Journey – 30 Days Challenge**  
@@ -96,7 +96,7 @@
 
 Tracking daily progress in Web Dev, Data, ML & problem-solving.
 
-📅 **Status:** Day 10/30  
+📅 **Status:** Day 11/30  
 📁 Repo: *[(Journey)](https://github.com/Atul-770/my-dev-journey-30-days)*  
 ✨ Consistency > Motivation
 
