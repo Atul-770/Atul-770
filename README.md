@@ -96,7 +96,7 @@
 
 Tracking daily progress in Web Dev, Data, ML & problem-solving.
 
-📅 **Status:** Day 15/30  
+📅 **Status:** Day 16/30  
 📁 Repo: *[(Journey)](https://github.com/Atul-770/my-dev-journey-30-days)*  
 ✨ Consistency > Motivation
 
